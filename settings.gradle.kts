@@ -24,4 +24,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "ExpoMatch"
 include(":app")
- 
+include(":domain")
+include(":data")
+include(":ui")
